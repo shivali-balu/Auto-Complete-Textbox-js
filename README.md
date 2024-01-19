@@ -1,0 +1,1 @@
+This is a sample autofilling textbox that shows and highlighs the possible data that user gonna type in the input box . Here used is pure Javascript in which a json file of data is used for sugesstions and iterated over . 
